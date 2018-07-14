@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         sosaka
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
