@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         sosaka
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.1
 // @description  try to take over the world!
 // @author       You
+// @downloadURL  https://github.com/screloma/sosaka/raw/master/sosaka.user.js
+// @updateURL https://github.com/screloma/sosaka/raw/master/sosaka.user.js
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @match        https://2ch.hk/*/res/*
-// @run-at       document-idle
+// @grant        none
 // ==/UserScript==
 
 (function() {
